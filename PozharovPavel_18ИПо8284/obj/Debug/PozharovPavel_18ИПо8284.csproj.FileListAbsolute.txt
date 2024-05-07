@@ -1,0 +1,10 @@
+C:\Users\29361911\source\repos\PozharovPavel_18ИПо8284\PozharovPavel_18ИПо8284\bin\Debug\PozharovPavel_18ИПо8284.exe.config
+C:\Users\29361911\source\repos\PozharovPavel_18ИПо8284\PozharovPavel_18ИПо8284\bin\Debug\PozharovPavel_18ИПо8284.exe
+C:\Users\29361911\source\repos\PozharovPavel_18ИПо8284\PozharovPavel_18ИПо8284\bin\Debug\PozharovPavel_18ИПо8284.pdb
+C:\Users\29361911\source\repos\PozharovPavel_18ИПо8284\PozharovPavel_18ИПо8284\obj\Debug\PozharovPavel_18ИПо8284.csproj.AssemblyReference.cache
+C:\Users\29361911\source\repos\PozharovPavel_18ИПо8284\PozharovPavel_18ИПо8284\obj\Debug\PozharovPavel_18ИПо8284.Form1.resources
+C:\Users\29361911\source\repos\PozharovPavel_18ИПо8284\PozharovPavel_18ИПо8284\obj\Debug\PozharovPavel_18ИПо8284.Properties.Resources.resources
+C:\Users\29361911\source\repos\PozharovPavel_18ИПо8284\PozharovPavel_18ИПо8284\obj\Debug\PozharovPavel_18ИПо8284.csproj.GenerateResource.cache
+C:\Users\29361911\source\repos\PozharovPavel_18ИПо8284\PozharovPavel_18ИПо8284\obj\Debug\PozharovPavel_18ИПо8284.csproj.CoreCompileInputs.cache
+C:\Users\29361911\source\repos\PozharovPavel_18ИПо8284\PozharovPavel_18ИПо8284\obj\Debug\PozharovPavel_18ИПо8284.exe
+C:\Users\29361911\source\repos\PozharovPavel_18ИПо8284\PozharovPavel_18ИПо8284\obj\Debug\PozharovPavel_18ИПо8284.pdb
